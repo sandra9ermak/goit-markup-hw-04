@@ -410,21 +410,19 @@ body {
   height: 92px;
   border: 1px solid #afb1b8;
   border-radius: 4px;
-}
-
-.clients-icon {
   fill: #afb1b8;
 }
 
-.clients-icon:hover,
+/*.clients-icon:hover,
 .clients-icon:focus {
   fill: var(--accent-color);
-}
+}*/
 
 .clients-menu:hover,
 .clients-menu:focus {
   border: 1px solid var(--accent-color);
   cursor: pointer;
+  fill: var(--accent-color);
 }
 
 /* FOOTER */
