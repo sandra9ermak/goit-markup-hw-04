@@ -131,6 +131,7 @@ body {
 .header-contacts-list:hover,
 .header-contacts-list:focus {
   color: var(--accent-color);
+  cursor: pointer;
 }
 
 .menu-contacts {
